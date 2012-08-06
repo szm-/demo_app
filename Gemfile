@@ -1,12 +1,6 @@
 source 'https://rubygems.org'
 
-group :development do
-    gem 'rails', '3.2.7'
-end
-
-group :production do
-    gem 'rails', '3.2.8.rc2'
-end
+gem 'rails', '3.2.8.rc2'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
